@@ -1,0 +1,29 @@
+c:\users\asenchenko\documents\visual studio 2017\Projects\Sensor\Sensor\bin\Debug\Sensor.exe.config
+c:\users\asenchenko\documents\visual studio 2017\Projects\Sensor\Sensor\bin\Debug\Sensor.exe
+c:\users\asenchenko\documents\visual studio 2017\Projects\Sensor\Sensor\bin\Debug\Sensor.pdb
+c:\users\asenchenko\documents\visual studio 2017\Projects\Sensor\Sensor\obj\Debug\Sensor.csprojResolveAssemblyReference.cache
+c:\users\asenchenko\documents\visual studio 2017\Projects\Sensor\Sensor\obj\Debug\MainWindow.g.cs
+c:\users\asenchenko\documents\visual studio 2017\Projects\Sensor\Sensor\obj\Debug\App.g.cs
+c:\users\asenchenko\documents\visual studio 2017\Projects\Sensor\Sensor\obj\Debug\Sensor_MarkupCompile.cache
+c:\users\asenchenko\documents\visual studio 2017\Projects\Sensor\Sensor\obj\Debug\Sensor_MarkupCompile.lref
+c:\users\asenchenko\documents\visual studio 2017\Projects\Sensor\Sensor\obj\Debug\MainWindow.baml
+c:\users\asenchenko\documents\visual studio 2017\Projects\Sensor\Sensor\obj\Debug\Sensor.g.resources
+c:\users\asenchenko\documents\visual studio 2017\Projects\Sensor\Sensor\obj\Debug\Sensor.Properties.Resources.resources
+c:\users\asenchenko\documents\visual studio 2017\Projects\Sensor\Sensor\obj\Debug\Sensor.csproj.GenerateResource.Cache
+c:\users\asenchenko\documents\visual studio 2017\Projects\Sensor\Sensor\obj\Debug\Sensor.exe
+c:\users\asenchenko\documents\visual studio 2017\Projects\Sensor\Sensor\obj\Debug\Sensor.pdb
+E:\git\Sensor\Sensor\bin\Debug\Sensor.exe.config
+E:\git\Sensor\Sensor\bin\Debug\Sensor.exe
+E:\git\Sensor\Sensor\bin\Debug\Sensor.pdb
+E:\git\Sensor\Sensor\obj\Debug\Sensor.csprojResolveAssemblyReference.cache
+E:\git\Sensor\Sensor\obj\Debug\MainWindow.g.cs
+E:\git\Sensor\Sensor\obj\Debug\App.g.cs
+E:\git\Sensor\Sensor\obj\Debug\Sensor_MarkupCompile.cache
+E:\git\Sensor\Sensor\obj\Debug\Sensor_MarkupCompile.lref
+E:\git\Sensor\Sensor\obj\Debug\MainWindow.baml
+E:\git\Sensor\Sensor\obj\Debug\Sensor.g.resources
+E:\git\Sensor\Sensor\obj\Debug\Sensor.Properties.Resources.resources
+E:\git\Sensor\Sensor\obj\Debug\Sensor.csproj.GenerateResource.Cache
+E:\git\Sensor\Sensor\obj\Debug\Sensor.csproj.CoreCompileInputs.cache
+E:\git\Sensor\Sensor\obj\Debug\Sensor.exe
+E:\git\Sensor\Sensor\obj\Debug\Sensor.pdb
